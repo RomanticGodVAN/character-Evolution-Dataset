@@ -10,8 +10,8 @@
     - ID2
       - ID2_Source_Era_Another numbers
       - .....
-    -ID3
-    -..... 
+    - ID3
+    - ..... 
   - OBC
     - ID1
       - ID1_Source_Era_Another numbers.
