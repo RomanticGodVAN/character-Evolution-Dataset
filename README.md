@@ -1,5 +1,5 @@
 # Evolution Dataset of Oracle Bone Characters
-[EVOBC Download](https://pan.baidu.com/s/1kfhM_8lne9oK359V1Iz1DA?pwd=3216)
+[EVOBC Download](https://figshare.com/s/ce2cf55b35a2f8ecc4c6)
 # Tree of our dataset
 - Data
   - EVOBC
@@ -31,5 +31,10 @@ Spring and Autumn period Characters - SAC (770 to 476 B.C.)
 Warring States period Characters - WSC (475 B.C. to 221 B.C.)
 
 Clerical Script - CS (221 B.C. to 220 A.D.)
+
+# Interpretation of JSON
+*Key&Value.Json* shows the relationship between ID and Chinese label.
+*List_of_EVOBC* shows the Storage path of images.
+
 
 
