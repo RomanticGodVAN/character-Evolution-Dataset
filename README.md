@@ -21,10 +21,15 @@
   - .....
 # Shorthand Introduction
 Oracle Bone Characters -OBC (15th century B.C.)
+
 Bronze Inscriptions - BI (13th to 221 B.C.)
+
 Seal Script - SS (11th to 8th centuries B.C.)
+
 Spring and Autumn period Characters - SAC (770 to 476 B.C.)
+
 Warring States period Characters - WSC (475 B.C. to 221 B.C.)
+
 Clerical Script - CS (221 B.C. to 220 A.D.)
 
 
