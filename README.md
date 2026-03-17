@@ -2,7 +2,7 @@
 
 This repository contains a dataset for the evolution of Oracle Bone Characters.
 
-[**Download the EVOBC Dataset**](https://figshare.com/s/ce2cf55b35a2f8ecc4c6)
+[**Download the EVOBC Dataset**](https://drive.google.com/drive/folders/18A5avH6w40PZ6QjjAVGzbexvz_q0lner?usp=drive_link)
 
 ## Dataset Structure
 
