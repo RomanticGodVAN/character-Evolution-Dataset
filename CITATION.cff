@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use EVOBC, please cite the following paper."
+type: dataset
+title: "An open dataset for the evolution of oracle bone characters: EVOBC"
+license: "CC-BY-NC-SA-4.0"
+authors:
+  - family-names: Guan
+    given-names: Haisu
+  - family-names: Wan
+    given-names: Jinpeng
+  - family-names: Liu
+    given-names: Yuliang
+  - family-names: Wang
+    given-names: Pengjie
+  - family-names: Zhang
+    given-names: Kaile
+  - family-names: Kuang
+    given-names: Zhebin
+  - family-names: Wang
+    given-names: Xinyu
+  - family-names: Bai
+    given-names: Xiang
+  - family-names: Jin
+    given-names: Lianwen
+url: "https://huggingface.co/datasets/HaisuGuan/EVOBC"
+repository-code: "https://github.com/RomanticGodVAN/character-Evolution-Dataset"
+preferred-citation:
+  type: article
+  title: "An open dataset for the evolution of oracle bone characters: EVOBC"
+  authors:
+    - family-names: Guan
+      given-names: Haisu
+    - family-names: Wan
+      given-names: Jinpeng
+    - family-names: Liu
+      given-names: Yuliang
+    - family-names: Wang
+      given-names: Pengjie
+    - family-names: Zhang
+      given-names: Kaile
+    - family-names: Kuang
+      given-names: Zhebin
+    - family-names: Wang
+      given-names: Xinyu
+    - family-names: Bai
+      given-names: Xiang
+    - family-names: Jin
+      given-names: Lianwen
+  journal: "arXiv preprint arXiv:2401.12467"
+  year: 2024
+  doi: "10.48550/arXiv.2401.12467"
+  url: "https://arxiv.org/abs/2401.12467"
